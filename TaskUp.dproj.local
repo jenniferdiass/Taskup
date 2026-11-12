@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/31 17:39:32.000.243,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/05 10:28:44.000.531,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/22 10:39:03.000.084,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/27 11:34:08.000.106,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/27 11:35:54.000.246,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmPrincipal.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/27 11:35:54.000.246,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmPrincipal.dfm=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/10/27 11:36:16.000.255,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\TaskUp.dproj=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/10/28 14:10:44.000.933,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmTarefa.pas</Transaction>
+    <Transaction>2026/10/28 17:36:10.000.225,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit2.pas</Transaction>
+    <Transaction>2026/11/03 10:42:32.000.475,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit3.pas</Transaction>
+    <Transaction>2026/11/03 10:43:08.000.467,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit3.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmNovaSubTarefa.pas</Transaction>
+    <Transaction>2026/11/03 10:43:08.000.467,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit3.dfm=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmNovaSubTarefa.dfm</Transaction>
+    <Transaction>2026/11/03 11:41:24.000.661,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/03 11:41:41.000.914,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\ModeloSubTarefa.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/04 11:39:43.000.963,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit4.pas</Transaction>
+    <Transaction>2026/11/04 11:39:52.000.792,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit4.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmTodasTarefas.pas</Transaction>
+    <Transaction>2026/11/04 11:39:52.000.792,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit4.dfm=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\FrmTodasTarefas.dfm</Transaction>
+    <Transaction>2026/11/04 13:24:14.000.627,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/04 13:25:42.000.574,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\ModeloTarefa.pas</Transaction>
+    <Transaction>2026/11/06 09:52:03.000.869,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\DMConexao.pas</Transaction>
+    <Transaction>2026/11/09 12:37:29.245,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/09 12:37:40.448,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\ServicoTarefa.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/09 12:47:34.697,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/09 12:48:13.112,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\ServicoSubTarefa.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/09 13:29:07.788,=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+    <Transaction>2026/11/09 13:29:16.464,C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\ServicoFrase.pas=C:\Users\Opytex\Documents\Embarcadero\Studio\Projects\TaskUp\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
